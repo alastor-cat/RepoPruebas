@@ -1,0 +1,9 @@
+Comandos importantes para git
+
+1) git diff : Muestra los cambios hechos dentro de un archivo especifico
+2) git log : Muestra los commits hechos en el repositorio
+3) git log --oneline : Simplifica el mostrar el commit
+4) git diff <commit> <commit> (HEAD~1 HEAD) : Muestra las diferencias de lineas entre commits
+5) git log --oneline | cat : Muestra los commits en pantalla primaria
+6) git log --oneline --decorate : Muestra los commits ordenados y ademas el puntero de ubicación.
+
